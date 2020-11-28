@@ -3,10 +3,6 @@ import numpy
 # scipy.special for the sigmoid function expit()
 import scipy.special
 
-# library for plotting arrays
-import matplotlib.pyplot as mpl
-
-
 # neural network class definition
 class neuralNetwork:
     # initialise the neural network
